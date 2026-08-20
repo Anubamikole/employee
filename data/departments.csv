@@ -1,7 +1,0 @@
-DepartmentID,DepartmentName,Manager
-D01,IT,John Smith
-D02,Human Resources,Mary Johnson
-D03,Finance,Peter Williams
-D04,Sales,Sarah Miller
-D05,Marketing,Linda Wilson
-D02,HR,Mary Johnson (inconsistent naming)
